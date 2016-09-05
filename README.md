@@ -1,56 +1,54 @@
 WeChat
 ===
-Social APP is popular all over the world, such as: Facebook, Line, Whatsapp, Kakao.     
-You still worry about their own project social module? You also thinking WeChat function is how to achieve? Don't worry, come and look at this!
-This project is a high copy WeChat, and based on WeChat do to some experience and UI optimization. implementation features:  
--  The text chat between friends, expression, video calls, voice, the voice call, send a file, etc. 
--  Group chat, 
--  from the address book add buddy,
--  QR Code scanning add buddy, QR Code scanning transfer between friends, 
--  WeChat public account information push, 
--  circle of friends.
--  etc.      
+Social apps are popular all over the world, such as Facebook, Line, Whatsapp, and Kakao.     
+Do you still worry about their own social project modules? Are you also thinking WeChat could be used to achieve it? Don't worry, come and look at this!
+This project is a high copy WeChat, and based on WeChat, due to some experience and UI optimization. Implementation features:  
+-  Text chat between friends, expressions, video calls, file transfer, etc. 
+-  Group chat
+-  Add buddies from address book
+-  Scan QR Code to add buddy, Scan QR Code to transfer between friends
+-  WeChat public account information push
+-  Circle of friends
 
-**If you are interest in this project, welcome to join our big family of open source!    
-Family ！！！**
+** If you are interested in this project, please feel free to join our big open-source family! **
  
 
 Image
 ===
-<img   src="http://ww3.sinaimg.cn/bmiddle/6705567egw1et8fc3m0htj20m80zktbd.jpg" />
-===
-<img   src="http://ww4.sinaimg.cn/bmiddle/6705567egw1etggaa9ukfj20m80zk0vr.jpg" />
-===
-  <img   src="http://ww4.sinaimg.cn/bmiddle/6705567egw1etggabfdurj20m80zktb5.jpg" />
-===
-  <img   src="http://ww3.sinaimg.cn/bmiddle/6705567egw1esyv3c1r6yj20m80zkq5c.jpg" />
-===
-  <img   src="http://ww2.sinaimg.cn/bmiddle/6705567egw1esyv3ld96kj20m80zkjtk.jpg" />
-===
- <img   src="http://ww3.sinaimg.cn/bmiddle/6705567egw1et8f8o8tkpj20m80zkdi7.jpg" />
-===
- 
+<a href="https://github.com/motianhuo/wechat/tree/wechat2.0" alt="高仿微信2.0">
+<img   src="https://raw.githubusercontent.com/motianhuo/wechat/wechat2.0/pic_hd.jpg" />
+</a>
+<a href="https://github.com/motianhuo/wechat/tree/wechat2.0" alt="高仿微信2.0">
+高仿微信2.0 点击图片进入
+</a>
 
-Download Apk
+
+===
+
+
+
+
+
+
+Download APK
 ===
 
 <a href="https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk">
-  <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+ <img src="https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67" alt="Get on google play" height="60" border="0" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" style="max-width:100%;">
 </a>
 
 
 Usage
 ===
- 1、SNS App ( Travel Direction、 Food Direction、 Medical Direction、Game Direction etc.)     
+ 1. SNS App (Travel Direction, Food Direction, Medical Direction, Game Direction, etc.)     
  
- 2、Mobile Business Office
+ 2. Mobile Business Office
 
- 3、O2O (Online To Offline)
+ 3. O2O (Online to Offline)
  
 Pull Requests
 ===
-I will gladly accept pull requests for fixes and feature enhancements but please do them in the develop branch.
+I will gladly accept pull requests for fixes and feature enhancements, but please do them in the develop branch.
 
 License
 -------
